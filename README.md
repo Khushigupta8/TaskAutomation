@@ -1,8 +1,8 @@
-# CodeAlpha-Task2 
+#Miniproject2 
 
 ##  Task: File Automation Script
 
-This project is created as part of **CodeAlpha Internship - Task 2**.  
+ 
 The script automates the process of moving images from a **Destination Folder** to the **Source Folder**.
 
 ---
